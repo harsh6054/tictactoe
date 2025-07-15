@@ -24,7 +24,7 @@ A simple and interactive Tic Tac Toe game built using **HTML**, **CSS**, and **J
 
 ## 🎥 Demo
 
-👉 [Click here to play the game](#)  
+👉 [Click here to play the game](https://xox-arena.netlify.app/)  
 _Replace `#` with your GitHub Pages or live demo link if available._
 
 ---
