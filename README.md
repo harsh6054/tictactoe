@@ -43,17 +43,7 @@ tic-tac-toe-game/
 -If a player wins or if all cells are filled (draw), a message is shown.
 -The reset button allows restarting the game.
 
-## 🧑‍💻 Author
 
-**Harsh Patil**  
-🎓 Computer Engineering Student | 💻 Web & App Developer  
-
-- 🔗 [Portfolio](https://harshvardhanpatil.netlify.app/)  
-- 💼 [LinkedIn](https://www.linkedin.com/in/harshvardhan-patil-31441132b/)  
-- 🐙 [GitHub](https://github.com/Harsh-Patil-07)  
-- 📧 Email: harshpatil6054@gmail.com 
-
-_Always building and learning something new!_
 
 
 
